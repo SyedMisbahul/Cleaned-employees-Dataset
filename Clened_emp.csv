@@ -1,0 +1,765 @@
+,First Name,Gender,Start Date,Last Login Time,Salary,Bonus %,Senior Management,Team
+0,Joe,Male,1980-01-19,2025-11-02 16:06:00,119667,1.148,True,Finance
+1,Ruby,Female,1980-01-28,2025-11-02 23:08:00,142868,6.318,False,Marketing
+2,Fred,Male,1980-02-20,2025-11-02 02:25:00,74129,18.225,False,Product
+3,Sara,Female,1980-02-25,2025-11-02 22:50:00,75484,3.186,False,Finance
+4,Julie,Female,1980-03-08,2025-11-02 05:13:00,145357,3.459,False,Engineering
+5,Steven,Male,1980-03-30,2025-11-02 21:20:00,35095,8.379,True,Client Services
+6,Roger,Male,1980-04-17,2025-11-02 11:32:00,88010,13.886,True,Sales
+7,Bruce,Male,1980-05-07,2025-11-02 20:00:00,35802,12.391,True,Sales
+8,Cynthia,Female,1980-05-23,2025-11-02 03:19:00,78226,2.419,False,Human Resources
+9,Evelyn,Female,1980-05-24,2025-11-02 23:10:00,81673,15.364,True,Engineering
+10,Steven,Male,1980-05-30,2025-11-02 20:25:00,100949,13.813,True,Human Resources
+11,Ruby,Female,1980-07-07,2025-11-02 03:42:00,101262,6.773,False,Client Services
+12,Ruth,Female,1980-09-02,2025-11-02 06:52:00,59678,10.895,False,Distribution
+13,Ann,Female,1980-10-03,2025-11-02 01:08:00,96941,10.048,True,Distribution
+14,Sarah,Female,1980-11-03,2025-11-02 14:47:00,37259,1.763,False,Client Services
+15,Rebecca,Female,1980-11-15,2025-11-02 04:13:00,85730,5.359,True,Product
+16,Deborah,Female,1980-11-25,2025-11-02 04:33:00,46953,17.436,False,Client Services
+17,Brandon,Male,1980-12-01,2025-11-02 01:08:00,112807,17.492,True,Human Resources
+18,Marilyn,Female,1980-12-07,2025-11-02 03:16:00,73524,5.207,True,Marketing
+19,Jack,Male,1980-12-24,2025-11-02 22:58:00,106995,15.723,False,Product
+20,Brenda,Female,1981-01-03,2025-11-02 18:01:00,131131,11.682,False,Client Services
+21,Frank,Male,1981-01-10,2025-11-02 13:30:00,71853,8.037,True,Sales
+22,Carlos,Male,1981-01-25,2025-11-02 10:00:00,138598,14.737,False,Sales
+23,Mildred,Female,1981-02-21,2025-11-02 03:30:00,47266,10.256,False,Client Services
+24,Shirley,Female,1981-02-28,2025-11-02 13:23:00,113850,1.854,False,Marketing
+25,Jesse,Male,1981-03-02,2025-11-02 19:26:00,79582,3.873,False,Legal
+26,Justin,Male,1981-05-24,2025-11-02 23:15:00,78351,15.221,False,Sales
+27,Kevin,Male,1981-06-23,2025-11-02 20:26:00,134598,11.699,False,Business Development
+28,Jeremy,Male,1981-08-12,2025-11-02 00:05:00,46930,18.702,True,Finance
+29,Harry,Male,1981-08-26,2025-11-02 15:16:00,130620,7.03,False,Legal
+30,Louise,Female,1981-09-18,2025-11-02 05:47:00,91462,8.205,False,Marketing
+31,Marilyn,Female,1981-09-26,2025-11-02 02:23:00,86386,2.937,False,Distribution
+32,Linda,Female,1981-10-19,2025-11-02 20:49:00,57427,9.557,True,Client Services
+33,Diana,Female,1981-10-23,2025-11-02 10:27:00,132940,19.082,False,Client Services
+34,Jacqueline,Female,1981-11-25,2025-11-02 15:01:00,145988,18.243,False,Marketing
+35,Terry,Male,1981-11-27,2025-11-02 18:30:00,124008,13.464,True,Client Services
+36,Irene,Female,1982-02-04,2025-11-02 17:26:00,40837,12.182,True,Client Services
+37,Lisa,Female,1982-02-09,2025-11-02 18:44:00,113592,17.108,True,Marketing
+38,Louise,Female,1982-02-26,2025-11-02 01:03:00,106362,8.965,False,Sales
+39,Julia,Female,1982-03-02,2025-11-02 12:52:00,36403,2.664,True,Finance
+40,Irene,Female,1982-03-03,2025-11-02 08:26:00,56526,5.81,True,Finance
+41,Amanda,Female,1982-03-17,2025-11-02 23:46:00,107111,1.438,True,Product
+42,Peter,Male,1982-03-22,2025-11-02 07:28:00,77933,13.132,True,Engineering
+43,Kevin,Male,1982-03-25,2025-11-02 07:31:00,35061,5.128,False,Legal
+44,Rose,Female,1982-04-06,2025-11-02 10:43:00,91411,8.639,True,Human Resources
+45,Rose,Female,1982-05-20,2025-11-02 09:14:00,97691,2.142,False,Client Services
+46,Pamela,Female,1982-07-01,2025-11-02 06:51:00,54585,4.166,False,Product
+47,Diane,Female,1982-07-05,2025-11-02 16:56:00,124889,15.026,True,Sales
+48,Cheryl,Female,1982-07-23,2025-11-02 06:28:00,98841,8.945,True,Client Services
+49,Clarence,Male,1982-08-26,2025-11-02 09:47:00,146589,4.905,True,Business Development
+50,Stephanie,Female,1982-09-14,2025-11-02 08:14:00,96649,3.453,False,Sales
+51,Howard,Male,1982-10-05,2025-11-02 07:22:00,97490,5.46,True,Marketing
+52,Joseph,Male,1982-11-04,2025-11-02 21:46:00,126010,19.601,False,Legal
+53,Robert,Male,1982-11-05,2025-11-02 12:41:00,111580,10.982,False,Human Resources
+54,Roger,Male,1982-11-08,2025-11-02 02:32:00,140558,5.084,True,Sales
+55,Harry,Male,1982-11-19,2025-11-02 11:25:00,59277,10.2,False,Finance
+56,Donna,Female,1982-11-26,2025-11-02 07:04:00,82871,17.999,False,Marketing
+57,Marilyn,Female,1982-12-17,2025-11-02 12:10:00,147183,8.748,False,Business Development
+58,John,Male,1982-12-23,2025-11-02 22:35:00,146907,11.738,False,Engineering
+59,Rose,Female,1982-12-31,2025-11-02 18:50:00,145001,19.85,False,Engineering
+60,Todd,Male,1983-01-04,2025-11-02 12:34:00,115566,6.716,True,Client Services
+61,Sean,Male,1983-01-17,2025-11-02 14:23:00,66146,11.178,False,Human Resources
+62,Sandra,Female,1983-01-19,2025-11-02 07:25:00,42090,8.842,True,Legal
+63,Debra,Female,1983-03-12,2025-11-02 12:19:00,74911,19.513,False,Marketing
+64,Stephanie,Female,1983-03-24,2025-11-02 11:15:00,50141,13.218,True,Human Resources
+65,Marie,Female,1983-04-08,2025-11-02 14:01:00,145988,18.685,True,Human Resources
+66,Paula,Female,1983-05-21,2025-11-02 11:42:00,58423,10.833,False,Business Development
+67,Ronald,Male,1983-05-25,2025-11-02 10:05:00,50426,18.536,True,Sales
+68,Robin,Female,1983-06-04,2025-11-02 15:15:00,114797,5.965,True,Sales
+69,Joe,Male,1983-07-04,2025-11-02 07:32:00,62161,8.13,True,Business Development
+70,Walter,Male,1983-07-06,2025-11-02 23:54:00,127813,5.961,False,Finance
+71,Heather,Female,1983-07-29,2025-11-02 10:48:00,47605,14.955,True,Human Resources
+72,Evelyn,Female,1983-09-03,2025-11-02 13:58:00,36759,17.269,True,Marketing
+73,Marilyn,Female,1983-11-16,2025-11-02 08:29:00,76078,2.401,True,Product
+74,Janice,Female,1984-01-02,2025-11-02 21:06:00,41190,3.311,True,Sales
+75,Phillip,Male,1984-01-31,2025-11-02 06:30:00,42392,19.675,False,Finance
+76,Todd,Male,1984-02-02,2025-11-02 10:13:00,69989,10.985,True,Finance
+77,Jeffrey,Male,1984-02-03,2025-11-02 13:26:00,70990,15.901,True,Sales
+78,Craig,Male,1984-02-08,2025-11-02 04:45:00,113506,19.642,False,Marketing
+79,Denise,Female,1984-02-19,2025-11-02 06:22:00,86150,3.997,False,Client Services
+80,Michelle,Female,1984-03-30,2025-11-02 18:43:00,57325,17.179,True,Human Resources
+81,Mark,Male,1984-04-01,2025-11-02 13:21:00,121477,17.44,True,Business Development
+82,Brenda,Female,1984-04-17,2025-11-02 07:12:00,87715,2.675,False,Product
+83,Shirley,Female,1984-05-01,2025-11-02 13:15:00,41334,6.219,True,Human Resources
+84,Phillip,Male,1984-05-15,2025-11-02 06:15:00,134120,6.842,False,Human Resources
+85,Eugene,Male,1984-05-24,2025-11-02 10:54:00,81077,2.117,False,Sales
+86,Bobby,Male,1984-06-05,2025-11-02 07:40:00,93368,2.88,True,Product
+87,Gregory,Male,1984-06-18,2025-11-02 03:46:00,82726,16.304,True,Marketing
+88,Marilyn,Female,1984-07-02,2025-11-02 16:06:00,92430,2.924,False,Engineering
+89,Joshua,Male,1984-07-10,2025-11-02 19:22:00,68230,8.047,False,Client Services
+90,Jonathan,Male,1984-07-30,2025-11-02 18:02:00,83809,12.922,False,Distribution
+91,Doris,Female,1984-09-08,2025-11-02 19:03:00,114360,17.799,True,Business Development
+92,Benjamin,Male,1984-09-11,2025-11-02 06:37:00,84810,15.794,False,Marketing
+93,Lawrence,Male,1984-10-01,2025-11-02 14:06:00,102589,17.952,True,Marketing
+94,Mark,Male,1984-10-03,2025-11-02 05:31:00,95728,6.752,True,Business Development
+95,Phillip,Male,1984-10-07,2025-11-02 11:05:00,36837,14.66,False,Marketing
+96,Stephen,Male,1984-10-21,2025-11-02 06:26:00,121816,10.615,True,Distribution
+97,Ann,Female,1984-11-04,2025-11-02 12:17:00,90719,6.22,False,Business Development
+98,Tammy,Female,1984-11-11,2025-11-02 10:30:00,132839,17.463,True,Client Services
+99,Anne,Female,1984-11-21,2025-11-02 12:30:00,128305,16.636,False,Marketing
+100,Carl,Male,1984-12-14,2025-11-02 20:49:00,63395,11.411,False,Legal
+101,Harold,Male,1985-01-02,2025-11-02 21:40:00,77544,12.447,False,Business Development
+102,Harry,Male,1985-02-10,2025-11-02 19:46:00,63046,10.411,False,Finance
+103,Andrew,Male,1985-03-29,2025-11-02 18:57:00,43414,7.563,True,Client Services
+104,Nancy,Female,1985-05-07,2025-11-02 22:20:00,121006,3.512,True,Finance
+105,Joseph,Male,1985-05-23,2025-11-02 22:16:00,139570,15.804,True,Finance
+106,Edward,Male,1985-05-27,2025-11-02 22:13:00,110485,7.995,False,Client Services
+107,Philip,Male,1985-07-18,2025-11-02 06:36:00,122319,19.122,False,Engineering
+108,Linda,Female,1985-08-18,2025-11-02 04:34:00,51431,13.295,False,Engineering
+109,Jessica,Female,1985-09-27,2025-11-02 13:35:00,75145,6.388,True,Legal
+110,Steven,Male,1985-11-10,2025-11-02 10:53:00,62719,19.127,False,Client Services
+111,Deborah,Female,1985-11-21,2025-11-02 13:40:00,113129,17.371,False,Client Services
+112,Kenneth,Male,1985-12-14,2025-11-02 06:55:00,47232,17.862,True,Legal
+113,Julie,Female,1986-03-23,2025-11-02 09:26:00,56926,7.507,False,Sales
+114,Susan,Female,1986-04-18,2025-11-02 09:31:00,90829,19.142,False,Marketing
+115,Kimberly,Female,1986-04-20,2025-11-02 15:55:00,52970,4.513,False,Sales
+116,Alice,Female,1986-05-02,2025-11-02 01:50:00,51395,2.378,True,Finance
+117,Henry,Male,1986-05-12,2025-11-02 02:04:00,59943,1.432,False,Finance
+118,Justin,Male,1986-05-22,2025-11-02 06:30:00,121508,19.334,True,Finance
+119,Shirley,Female,1986-06-08,2025-11-02 02:25:00,110061,7.494,False,Client Services
+120,Cynthia,Female,1986-07-05,2025-11-02 01:24:00,35381,11.749,False,Finance
+121,Anne,Female,1986-07-16,2025-11-02 14:08:00,69134,3.723,True,Engineering
+122,Ruth,Female,1986-08-12,2025-11-02 19:29:00,44639,9.148,True,Legal
+123,Catherine,Female,1986-08-31,2025-11-02 18:20:00,59970,12.801,False,Client Services
+124,Steven,Male,1986-09-07,2025-11-02 00:32:00,43252,18.892,False,Client Services
+125,Stephanie,Female,1986-09-13,2025-11-02 01:52:00,36844,5.574,True,Business Development
+126,Jeffrey,Male,1986-09-20,2025-11-02 06:06:00,111376,2.673,True,Business Development
+127,Jimmy,Male,1986-10-07,2025-11-02 17:53:00,126310,5.413,True,Product
+128,Beverly,Female,1986-10-17,2025-11-02 00:51:00,80838,8.115,False,Engineering
+129,Jessica,Female,1986-10-19,2025-11-02 21:58:00,90285,13.591,True,Client Services
+130,Kevin,Male,1986-11-20,2025-11-02 18:59:00,79906,18.021,True,Sales
+131,Kimberly,Female,1986-12-06,2025-11-02 14:23:00,37916,12.929,True,Distribution
+132,Shawn,Male,1986-12-07,2025-11-02 19:45:00,111737,6.414,False,Product
+133,Raymond,Male,1986-12-12,2025-11-02 12:18:00,47529,2.712,True,Product
+134,Fred,Male,1987-02-13,2025-11-02 14:15:00,121723,18.645,True,Product
+135,Stephen,Male,1987-04-09,2025-11-02 12:47:00,111249,10.574,True,Human Resources
+136,Dennis,Male,1987-04-18,2025-11-02 01:35:00,115163,10.125,False,Legal
+137,Kathy,Female,1987-05-08,2025-11-02 18:19:00,86318,18.492,True,Sales
+138,Teresa,Female,1987-06-24,2025-11-02 19:37:00,69740,8.294,False,Distribution
+139,Robin,Female,1987-07-24,2025-11-02 13:35:00,100765,10.982,True,Client Services
+140,Gary,Male,1987-08-12,2025-11-02 00:04:00,89661,8.525,False,Finance
+141,Ruby,Female,1987-08-17,2025-11-02 16:20:00,65476,10.012,True,Product
+142,Kenneth,Male,1987-08-25,2025-11-02 21:16:00,127654,16.439,True,Client Services
+143,Shawn,Male,1987-09-29,2025-11-02 22:11:00,71975,9.77,False,Human Resources
+144,Jonathan,Male,1987-10-12,2025-11-02 02:59:00,141069,4.903,False,Human Resources
+145,Gloria,Female,1987-10-24,2025-11-02 04:43:00,39833,9.631,False,Engineering
+146,Lois,Female,1987-12-25,2025-11-02 16:16:00,106317,2.235,True,Client Services
+147,Emily,Female,1988-01-13,2025-11-02 06:42:00,36711,19.028,True,Human Resources
+148,Diane,Female,1988-02-02,2025-11-02 18:14:00,49501,13.506,False,Business Development
+149,Lori,Female,1988-03-31,2025-11-02 22:59:00,95389,14.223,False,Sales
+150,Benjamin,Male,1988-04-12,2025-11-02 23:32:00,123409,7.783,False,Product
+151,Ryan,Male,1988-04-15,2025-11-02 05:18:00,91109,17.499,True,Human Resources
+152,Shirley,Female,1988-04-16,2025-11-02 11:09:00,132156,2.754,False,Marketing
+153,Rachel,Female,1988-04-22,2025-11-02 12:01:00,110924,7.808,False,Distribution
+154,Roger,Male,1988-05-02,2025-11-02 22:04:00,115582,15.343,True,Sales
+155,Kathryn,Female,1988-06-09,2025-11-02 09:29:00,86439,7.799,False,Finance
+156,Alan,Male,1988-06-26,2025-11-02 03:54:00,111786,3.592,True,Engineering
+157,Stephanie,Female,1988-06-26,2025-11-02 05:48:00,136604,6.16,True,Human Resources
+158,Michael,Male,1988-07-13,2025-11-02 13:48:00,47079,2.617,False,Legal
+159,Alice,Female,1988-09-03,2025-11-02 20:54:00,63571,15.397,True,Product
+160,Margaret,Female,1988-09-10,2025-11-02 12:42:00,131604,7.353,True,Distribution
+161,Antonio,Male,1988-10-25,2025-11-02 13:50:00,60866,13.101,True,Business Development
+162,Bonnie,Female,1988-11-13,2025-11-02 15:30:00,115814,4.99,False,Product
+163,Cynthia,Female,1988-11-16,2025-11-02 18:54:00,145146,7.482,True,Product
+164,Ruby,Female,1988-12-10,2025-11-02 20:27:00,76707,6.031,False,Business Development
+165,Fred,Male,1989-03-03,2025-11-02 02:27:00,129712,11.058,False,Finance
+166,Jerry,Male,1989-03-26,2025-11-02 04:15:00,140850,18.855,False,Finance
+167,Christine,Female,1989-07-03,2025-11-02 04:01:00,94345,11.996,False,Finance
+168,Julie,Female,1989-07-23,2025-11-02 13:52:00,109588,3.55,False,Engineering
+169,Philip,Male,1989-08-02,2025-11-02 11:21:00,129968,19.897,False,Finance
+170,Clarence,Male,1989-08-05,2025-11-02 18:11:00,148941,11.517,False,Product
+171,Marilyn,Female,1989-08-15,2025-11-02 09:14:00,140502,9.989,True,Sales
+172,Andrea,Female,1989-08-31,2025-11-02 23:10:00,113760,12.866,True,Distribution
+173,Judith,Female,1989-09-03,2025-11-02 11:16:00,134048,6.818,True,Marketing
+174,Sandra,Female,1989-09-07,2025-11-02 16:17:00,111468,2.58,True,Product
+175,Gloria,Female,1989-09-19,2025-11-02 19:40:00,131045,11.312,True,Product
+176,Catherine,Female,1989-09-25,2025-11-02 01:31:00,68164,18.393,False,Client Services
+177,Stephen,Male,1989-10-29,2025-11-02 23:34:00,93997,18.093,True,Business Development
+178,John,Male,1989-12-23,2025-11-02 07:01:00,80740,19.305,False,Marketing
+179,Ernest,Male,1990-01-28,2025-11-02 00:08:00,81919,15.118,False,Marketing
+180,Judy,Female,1990-02-01,2025-11-02 15:32:00,38092,5.668,False,Distribution
+181,Todd,Male,1990-02-18,2025-11-02 02:41:00,49339,1.695,True,Human Resources
+182,Harold,Male,1990-02-20,2025-11-02 23:00:00,66775,2.158,True,Legal
+183,Rebecca,Female,1990-02-23,2025-11-02 15:21:00,134673,6.878,False,Engineering
+184,Thomas,Male,1990-05-03,2025-11-02 09:29:00,111371,15.081,True,Engineering
+185,Aaron,Male,1990-07-22,2025-11-02 14:53:00,52119,11.343,True,Client Services
+186,Terry,Male,1990-09-03,2025-11-02 21:15:00,52226,19.135,False,Client Services
+187,Stephen,Male,1990-09-10,2025-11-02 22:42:00,129663,15.574,False,Human Resources
+188,Andrew,Male,1990-09-28,2025-11-02 09:38:00,137386,8.611,True,Distribution
+189,Beverly,Female,1990-10-22,2025-11-02 14:45:00,59070,19.064,True,Engineering
+190,Robert,Male,1990-10-27,2025-11-02 19:15:00,38041,18.428,True,Engineering
+191,Linda,Female,1990-12-16,2025-11-02 02:20:00,115658,3.041,True,Sales
+192,Adam,Male,1990-12-24,2025-11-02 20:57:00,110194,14.727,True,Product
+193,Maria,Female,1990-12-27,2025-11-02 21:57:00,36067,9.64,True,Product
+194,Victor,Male,1991-04-11,2025-11-02 07:44:00,70817,17.138,False,Engineering
+195,Jeremy,Male,1991-05-19,2025-11-02 13:40:00,131513,1.876,True,Finance
+196,Peter,Male,1991-05-22,2025-11-02 01:39:00,102577,12.026,True,Product
+197,Judy,Female,1991-07-01,2025-11-02 02:33:00,109510,13.457,True,Legal
+198,Bonnie,Female,1991-07-02,2025-11-02 01:27:00,104897,5.118,True,Human Resources
+199,Justin,Male,1991-07-25,2025-11-02 00:45:00,112975,9.699,False,Human Resources
+200,Donald,Male,1991-08-01,2025-11-02 02:25:00,61999,6.466,False,Product
+201,Timothy,Male,1991-08-25,2025-11-02 10:37:00,92587,8.475,False,Finance
+202,Barbara,Female,1991-09-02,2025-11-02 15:41:00,127297,11.905,True,Product
+203,Thomas,Male,1991-09-07,2025-11-02 09:51:00,65251,11.211,False,Distribution
+204,Cynthia,Female,1991-09-14,2025-11-02 13:08:00,51633,13.472,True,Business Development
+205,Sara,Female,1991-09-23,2025-11-02 18:17:00,97058,9.402,False,Finance
+206,Michael,Male,1991-11-22,2025-11-02 12:57:00,98753,16.443,True,Human Resources
+207,Donna,Female,1991-11-27,2025-11-02 13:59:00,64088,6.155,True,Legal
+208,Samuel,Male,1991-12-19,2025-11-02 02:54:00,76076,5.319,True,Finance
+209,Jane,Female,1992-01-12,2025-11-02 13:23:00,51923,13.623,False,Business Development
+210,Irene,Female,1992-01-29,2025-11-02 11:36:00,133772,19.02,True,Sales
+211,Wayne,Male,1992-01-30,2025-11-02 15:01:00,81183,17.066,False,Client Services
+212,Gloria,Female,1992-04-12,2025-11-02 20:26:00,66224,15.979,True,Legal
+213,Howard,Male,1992-04-27,2025-11-02 01:10:00,105062,1.563,False,Human Resources
+214,Walter,Male,1992-05-21,2025-11-02 00:39:00,144701,16.323,True,Marketing
+215,Annie,Female,1992-06-06,2025-11-02 10:04:00,138925,9.801,True,Marketing
+216,Albert,Male,1992-06-17,2025-11-02 03:25:00,86818,14.301,True,Engineering
+217,John,Male,1992-07-01,2025-11-02 22:08:00,97950,13.873,False,Client Services
+218,Rebecca,Female,1992-07-10,2025-11-02 00:23:00,94231,17.517,False,Product
+219,Doris,Female,1992-07-29,2025-11-02 18:40:00,85215,7.425,True,Human Resources
+220,Clarence,Male,1992-08-20,2025-11-02 20:23:00,124365,8.457,False,Business Development
+221,Joseph,Male,1992-09-10,2025-11-02 18:50:00,102555,3.672,True,Product
+222,Johnny,Male,1992-09-14,2025-11-02 08:21:00,115194,5.861,True,Marketing
+223,Albert,Male,1992-09-19,2025-11-02 02:35:00,45094,5.85,True,Business Development
+224,Denise,Female,1992-10-19,2025-11-02 05:42:00,137954,4.195,True,Legal
+225,Peter,Male,1992-11-24,2025-11-02 17:43:00,69297,1.268,False,Finance
+226,Patricia,Female,1992-11-25,2025-11-02 02:24:00,95322,4.15,False,Product
+227,Stephanie,Female,1992-11-26,2025-11-02 00:54:00,122121,7.937,True,Engineering
+228,Justin,Male,1992-12-06,2025-11-02 17:58:00,82782,4.366,True,Distribution
+229,James,Male,1993-01-15,2025-11-02 17:19:00,148985,19.28,False,Legal
+230,Annie,Female,1993-01-30,2025-11-02 02:05:00,144887,8.276,True,Sales
+231,Margaret,Female,1993-02-06,2025-11-02 13:05:00,125220,3.733,False,Marketing
+232,Diane,Female,1993-04-18,2025-11-02 03:22:00,64084,17.018,False,Product
+233,Maria,Female,1993-04-23,2025-11-02 11:17:00,130590,11.858,False,Finance
+234,Eric,Male,1993-06-15,2025-11-02 03:56:00,51070,13.806,True,Business Development
+235,Doris,Female,1993-07-05,2025-11-02 17:54:00,141439,3.799,False,Business Development
+236,Ryan,Male,1993-07-20,2025-11-02 22:18:00,139917,11.466,False,Distribution
+237,Michael,Male,1993-07-30,2025-11-02 17:35:00,35013,14.879,False,Product
+238,Paul,Male,1993-08-04,2025-11-02 19:25:00,42146,3.046,False,Legal
+239,Douglas,Male,1993-08-06,2025-11-02 12:42:00,97308,6.945,True,Marketing
+240,Juan,Male,1993-10-06,2025-11-02 08:52:00,85871,9.16,False,Product
+241,William,Male,1993-11-18,2025-11-02 12:27:00,54058,5.182,True,Human Resources
+242,Marie,Female,1993-12-08,2025-11-02 18:28:00,98406,7.943,True,Product
+243,Jean,Female,1993-12-18,2025-11-02 09:07:00,119082,16.18,False,Business Development
+244,Aaron,Male,1994-01-29,2025-11-02 18:48:00,58755,5.097,True,Marketing
+245,Debra,Female,1994-02-22,2025-11-02 22:25:00,104250,18.456,True,Business Development
+246,Cynthia,Female,1994-03-21,2025-11-02 08:34:00,142321,1.737,False,Finance
+247,Nicholas,Male,1994-04-12,2025-11-02 20:21:00,74669,1.113,True,Product
+248,Sarah,Female,1994-05-22,2025-11-02 07:06:00,64207,7.824,True,Client Services
+249,Jeremy,Male,1994-05-29,2025-11-02 06:24:00,47885,19.276,True,Human Resources
+250,Jane,Female,1994-06-01,2025-11-02 08:39:00,42424,18.115,False,Distribution
+251,Diana,Female,1994-06-13,2025-11-02 16:21:00,41831,4.548,False,Business Development
+252,Cheryl,Female,1994-08-16,2025-11-02 08:33:00,67150,15.85,True,Marketing
+253,Melissa,Female,1994-09-08,2025-11-02 04:11:00,98858,3.525,True,Human Resources
+254,Jacqueline,Female,1994-09-20,2025-11-02 18:07:00,62371,15.77,True,Client Services
+255,Ann,Female,1994-09-23,2025-11-02 11:15:00,89443,17.94,True,Sales
+256,Bobby,Male,1994-09-23,2025-11-02 01:29:00,51685,17.445,True,Engineering
+257,Ann,Female,1994-09-28,2025-11-02 05:44:00,79796,9.851,False,Distribution
+258,Robert,Male,1994-10-29,2025-11-02 04:26:00,123294,19.894,False,Client Services
+259,Andrea,Female,1994-10-30,2025-11-02 11:23:00,87575,13.346,True,Business Development
+260,Russell,Male,1994-10-30,2025-11-02 05:46:00,114334,9.669,False,Product
+261,Peter,Male,1994-11-17,2025-11-02 18:15:00,84885,15.402,False,Business Development
+262,Annie,Female,1994-12-19,2025-11-02 06:19:00,40119,4.338,True,Human Resources
+263,Carlos,Male,1995-01-04,2025-11-02 07:02:00,146670,10.763,False,Human Resources
+264,Johnny,Male,1995-01-08,2025-11-02 13:35:00,91124,12.986,True,Distribution
+265,Phyllis,Female,1995-01-15,2025-11-02 05:27:00,125881,16.697,False,Sales
+266,Diana,Female,1995-01-19,2025-11-02 00:37:00,86883,18.003,True,Product
+267,John,Male,1995-01-22,2025-11-02 00:17:00,66077,5.809,True,Product
+268,Amanda,Female,1995-01-25,2025-11-02 05:06:00,102081,5.203,False,Sales
+269,Jerry,Male,1995-01-30,2025-11-02 19:51:00,121357,18.845,False,Business Development
+270,Henry,Male,1995-02-06,2025-11-02 08:34:00,89258,15.585,True,Human Resources
+271,Rebecca,Female,1995-02-18,2025-11-02 06:50:00,109259,4.443,True,Legal
+272,Steven,Male,1995-03-01,2025-11-02 15:03:00,109095,9.494,False,Finance
+273,Billy,Male,1995-03-13,2025-11-02 12:05:00,120444,7.768,True,Finance
+274,Louise,Female,1995-03-27,2025-11-02 22:27:00,43050,11.671,False,Distribution
+275,Jonathan,Male,1995-04-06,2025-11-02 22:38:00,56993,18.623,False,Marketing
+276,Susan,Female,1995-04-07,2025-11-02 22:05:00,92436,12.467,False,Sales
+277,Kathy,Female,1995-04-19,2025-11-02 00:46:00,50905,9.404,True,Finance
+278,Henry,Male,1995-04-24,2025-11-02 04:18:00,43542,19.687,False,Legal
+279,Sandra,Female,1995-04-24,2025-11-02 19:14:00,116931,9.657,True,Human Resources
+280,Thomas,Male,1995-06-04,2025-11-02 14:24:00,62096,17.029,False,Marketing
+281,Donald,Male,1995-07-14,2025-11-02 07:51:00,106472,6.499,True,Client Services
+282,Matthew,Male,1995-08-03,2025-11-02 05:39:00,135352,7.986,True,Business Development
+283,Marie,Female,1995-08-06,2025-11-02 13:58:00,100308,13.677,False,Product
+284,Craig,Male,1995-08-21,2025-11-02 02:38:00,123876,4.225,False,Engineering
+285,Steve,Male,1995-08-22,2025-11-02 06:58:00,67780,9.54,True,Human Resources
+286,Matthew,Male,1995-09-05,2025-11-02 02:12:00,100612,13.645,False,Marketing
+287,Sarah,Female,1995-09-14,2025-11-02 07:50:00,87298,2.311,False,Distribution
+288,George,Male,1995-09-27,2025-11-02 17:04:00,36749,19.754,False,Finance
+289,Patricia,Female,1995-10-10,2025-11-02 16:52:00,119266,6.911,False,Distribution
+290,Alice,Female,1995-10-16,2025-11-02 21:19:00,92799,2.782,False,Sales
+291,Jessica,Female,1995-10-23,2025-11-02 05:53:00,68759,19.343,True,Finance
+292,Brandon,Male,1995-10-23,2025-11-02 12:04:00,60263,2.709,False,Sales
+293,Kathryn,Female,1995-10-27,2025-11-02 15:39:00,57300,18.015,False,Marketing
+294,Sarah,Female,1995-12-04,2025-11-02 09:16:00,124566,5.949,False,Product
+295,Raymond,Male,1996-01-13,2025-11-02 16:14:00,114244,16.69,False,Human Resources
+296,Marilyn,Female,1996-01-16,2025-11-02 07:18:00,118369,7.696,True,Business Development
+297,Kathy,Female,1996-03-09,2025-11-02 04:33:00,91712,8.567,False,Finance
+298,Carol,Female,1996-03-19,2025-11-02 03:39:00,57783,9.129,False,Finance
+299,Alice,Female,1996-03-23,2025-11-02 03:09:00,131952,12.09,False,Engineering
+300,Ralph,Male,1996-03-24,2025-11-02 11:54:00,50455,16.248,False,Business Development
+301,Clarence,Male,1996-03-26,2025-11-02 05:57:00,93581,6.083,True,Business Development
+302,Craig,Male,1996-04-14,2025-11-02 09:17:00,125556,7.996,False,Engineering
+303,Norma,Female,1996-04-16,2025-11-02 05:40:00,38872,9.302,True,Business Development
+304,Sean,Male,1996-05-04,2025-11-02 20:59:00,135490,19.934,False,Marketing
+305,Henry,Male,1996-06-26,2025-11-02 01:44:00,64715,15.107,True,Human Resources
+306,Scott,Male,1996-08-03,2025-11-02 01:50:00,64172,10.894,True,Engineering
+307,Katherine,Female,1996-08-13,2025-11-02 00:21:00,149908,18.912,False,Finance
+308,Kelly,Female,1996-08-16,2025-11-02 03:09:00,41427,1.431,False,Product
+309,Kathleen,Female,1996-09-20,2025-11-02 15:45:00,71430,8.572,False,Engineering
+310,Clarence,Male,1996-10-08,2025-11-02 12:53:00,142561,8.866,False,Client Services
+311,Phyllis,Female,1996-10-11,2025-11-02 21:30:00,136984,8.932,True,Finance
+312,Kathy,Female,1996-10-25,2025-11-02 12:59:00,143541,8.461,False,Human Resources
+313,Anne,Female,1996-10-26,2025-11-02 20:09:00,71930,18.451,True,Product
+314,Michelle,Female,1996-11-04,2025-11-02 21:34:00,53754,5.455,True,Product
+315,Frances,Female,1996-11-12,2025-11-02 18:08:00,112467,1.433,False,Business Development
+316,Scott,Male,1996-11-23,2025-11-02 19:36:00,96111,15.592,False,Human Resources
+317,Ruth,Female,1996-12-12,2025-11-02 10:07:00,97915,3.997,True,Human Resources
+318,Jack,Male,1997-01-12,2025-11-02 05:51:00,103902,12.159,False,Client Services
+319,Albert,Male,1997-02-01,2025-11-02 16:20:00,67827,19.717,True,Engineering
+320,Marilyn,Female,1997-04-04,2025-11-02 21:28:00,147663,10.263,False,Human Resources
+321,Irene,Female,1997-05-07,2025-11-02 09:32:00,66851,11.279,False,Engineering
+322,Tina,Female,1997-05-15,2025-11-02 15:53:00,56450,19.04,True,Engineering
+323,Jeffrey,Male,1997-06-18,2025-11-02 20:01:00,45150,12.075,True,Product
+324,William,Male,1997-06-26,2025-11-02 08:33:00,104840,15.653,True,Engineering
+325,Joshua,Male,1997-06-27,2025-11-02 15:23:00,95003,5.197,True,Marketing
+326,Janice,Female,1997-06-28,2025-11-02 13:48:00,136032,10.696,True,Marketing
+327,Kevin,Male,1997-07-12,2025-11-02 02:07:00,46080,9.635,False,Business Development
+328,Kimberly,Female,1997-07-15,2025-11-02 05:57:00,36643,7.953,False,Marketing
+329,Martha,Female,1997-07-17,2025-11-02 23:11:00,94963,19.626,True,Business Development
+330,Samuel,Male,1997-08-07,2025-11-02 12:40:00,43694,3.787,True,Engineering
+331,Justin,Male,1997-08-10,2025-11-02 23:00:00,128036,18.824,False,Client Services
+332,Ashley,Female,1997-08-15,2025-11-02 21:48:00,142415,1.985,True,Finance
+333,Karen,Female,1997-08-29,2025-11-02 16:56:00,80633,16.306,False,Legal
+334,Jane,Female,1997-09-03,2025-11-02 02:01:00,144474,17.648,False,Product
+335,Ernest,Male,1997-09-06,2025-11-02 14:02:00,53335,9.192,False,Product
+336,Judy,Female,1997-09-16,2025-11-02 00:10:00,65931,2.304,False,Human Resources
+337,Julie,Female,1997-10-26,2025-11-02 15:19:00,102508,12.637,True,Legal
+338,Helen,Female,1997-10-31,2025-11-02 02:43:00,52875,4.188,False,Legal
+339,Jeremy,Male,1997-11-26,2025-11-02 08:22:00,133033,12.2,False,Sales
+340,Edward,Male,1997-11-27,2025-11-02 01:00:00,58327,17.095,True,Finance
+341,Robin,Female,1998-01-08,2025-11-02 02:12:00,111163,5.025,True,Product
+342,Larry,Male,1998-01-24,2025-11-02 16:47:00,101004,1.389,True,Client Services
+343,Sandra,Female,1998-02-07,2025-11-02 12:39:00,132327,19.264,False,Product
+344,Willie,Male,1998-02-17,2025-11-02 20:20:00,146651,1.451,True,Engineering
+345,Patricia,Female,1998-03-07,2025-11-02 01:10:00,75825,7.839,False,Engineering
+346,Debra,Female,1998-03-13,2025-11-02 23:16:00,48696,4.75,False,Legal
+347,Beverly,Female,1998-04-11,2025-11-02 14:27:00,76485,9.212,True,Engineering
+348,Arthur,Male,1998-04-13,2025-11-02 11:28:00,89786,14.422,True,Legal
+349,Julie,Female,1998-04-23,2025-11-02 05:52:00,73437,2.518,True,Finance
+350,Jason,Male,1998-05-01,2025-11-02 18:05:00,75607,4.299,True,Sales
+351,Clarence,Male,1998-05-02,2025-11-02 03:16:00,85700,1.215,False,Sales
+352,Heather,Female,1998-07-11,2025-11-02 14:17:00,43026,14.166,False,Client Services
+353,Elizabeth,Female,1998-07-27,2025-11-02 11:12:00,137144,10.081,False,Finance
+354,Beverly,Female,1998-09-09,2025-11-02 20:26:00,121918,15.835,False,Legal
+355,Evelyn,Female,1998-09-22,2025-11-02 19:55:00,51525,10.366,False,Finance
+356,James,Male,1998-11-22,2025-11-02 03:48:00,74086,5.778,True,Human Resources
+357,Larry,Male,1999-01-08,2025-11-02 02:05:00,97370,10.458,False,Sales
+358,Kimberly,Female,1999-01-14,2025-11-02 07:13:00,41426,14.543,True,Finance
+359,John,Male,1999-01-29,2025-11-02 03:07:00,67165,13.001,False,Engineering
+360,Norma,Female,1999-02-28,2025-11-02 20:45:00,114412,8.756,True,Marketing
+361,Frances,Female,1999-04-04,2025-11-02 16:19:00,90582,4.709,True,Sales
+362,Sarah,Female,1999-04-06,2025-11-02 11:17:00,109517,5.146,False,Human Resources
+363,Todd,Male,1999-04-13,2025-11-02 10:31:00,59728,11.226,True,Client Services
+364,Kenneth,Male,1999-04-13,2025-11-02 22:28:00,81839,12.072,False,Sales
+365,Ryan,Male,1999-04-27,2025-11-02 03:41:00,85858,19.475,False,Client Services
+366,Ruby,Female,1999-05-01,2025-11-02 03:36:00,147362,7.851,True,Engineering
+367,Christopher,Male,1999-05-13,2025-11-02 10:48:00,68028,7.869,True,Finance
+368,Lillian,Female,1999-06-19,2025-11-02 16:44:00,123940,12.184,True,Business Development
+369,Jane,Female,1999-07-10,2025-11-02 19:02:00,128540,15.941,False,Legal
+370,Andrea,Female,1999-07-22,2025-11-02 09:25:00,149105,13.707,True,Distribution
+371,Tina,Female,1999-08-06,2025-11-02 03:18:00,102841,3.369,False,Client Services
+372,Mary,Female,1999-08-13,2025-11-02 01:03:00,134645,18.197,False,Business Development
+373,Rachel,Female,1999-08-16,2025-11-02 06:53:00,51178,9.735,True,Finance
+374,Ruth,Female,1999-08-19,2025-11-02 04:03:00,129297,8.067,True,Client Services
+375,Douglas,Male,1999-09-03,2025-11-02 16:00:00,83341,1.015,True,Client Services
+376,Justin,Male,1999-09-06,2025-11-02 10:30:00,62454,3.459,True,Sales
+377,Jason,Male,1999-10-17,2025-11-02 22:09:00,78417,3.067,False,Finance
+378,Virginia,Female,1999-10-20,2025-11-02 06:23:00,46905,19.154,False,Distribution
+379,Jesse,Male,1999-10-25,2025-11-02 15:35:00,118733,9.653,False,Marketing
+380,Rose,Female,1999-11-03,2025-11-02 09:06:00,75181,6.06,True,Finance
+381,Katherine,Female,1999-11-14,2025-11-02 08:15:00,57531,1.767,False,Client Services
+382,Randy,Male,1999-11-14,2025-11-02 12:12:00,58129,1.952,True,Distribution
+383,Gregory,Male,1999-11-15,2025-11-02 17:22:00,128031,15.857,True,Business Development
+384,Ashley,Female,1999-11-17,2025-11-02 21:18:00,120675,6.51,False,Human Resources
+385,Karen,Female,1999-11-30,2025-11-02 07:46:00,102488,17.653,True,Product
+386,Charles,Male,1999-12-16,2025-11-02 20:28:00,104014,7.077,False,Legal
+387,Bonnie,Female,1999-12-17,2025-11-02 15:12:00,42153,8.454,True,Business Development
+388,Earl,Male,2000-01-05,2025-11-02 17:46:00,91344,4.035,True,Sales
+389,Gregory,Male,2000-01-29,2025-11-02 06:01:00,109564,3.845,False,Legal
+390,Ralph,Male,2000-02-10,2025-11-02 16:48:00,89854,7.227,False,Business Development
+391,Craig,Male,2000-02-27,2025-11-02 07:45:00,37598,7.757,True,Marketing
+392,Rebecca,Female,2000-03-05,2025-11-02 10:33:00,46750,11.367,True,Sales
+393,Anne,Female,2000-03-07,2025-11-02 06:45:00,44537,18.284,True,Client Services
+394,Kathy,Female,2000-03-18,2025-11-02 19:26:00,149563,16.991,True,Finance
+395,Billy,Male,2000-04-06,2025-11-02 15:14:00,115280,9.153,False,Distribution
+396,Joe,Male,2000-04-14,2025-11-02 15:14:00,50645,11.119,False,Marketing
+397,Deborah,Female,2000-04-23,2025-11-02 18:55:00,105573,5.268,True,Product
+398,Linda,Female,2000-05-25,2025-11-02 17:45:00,119009,12.506,True,Business Development
+399,Jeremy,Male,2000-06-08,2025-11-02 00:15:00,49542,1.679,True,Distribution
+400,Lisa,Female,2000-07-08,2025-11-02 21:19:00,40121,6.293,False,Product
+401,Laura,Female,2000-07-12,2025-11-02 18:07:00,84672,3.96,False,Distribution
+402,Nancy,Female,2000-09-23,2025-11-02 08:05:00,94976,13.83,True,Engineering
+403,Charles,Male,2000-10-14,2025-11-02 21:40:00,71749,15.931,False,Legal
+404,Ruth,Female,2000-10-24,2025-11-02 04:13:00,69579,18.029,True,Human Resources
+405,Ruby,Female,2000-11-08,2025-11-02 19:35:00,105946,1.139,False,Business Development
+406,Marie,Female,2000-11-23,2025-11-02 05:06:00,125574,4.644,False,Sales
+407,Katherine,Female,2000-12-19,2025-11-02 01:40:00,41643,4.659,True,Distribution
+408,Margaret,Female,2001-01-04,2025-11-02 03:07:00,126924,1.552,True,Finance
+409,Kathy,Female,2001-01-14,2025-11-02 05:11:00,45682,1.451,True,Marketing
+410,Denise,Female,2001-03-18,2025-11-02 00:02:00,36697,11.196,True,Sales
+411,Gerald,Male,2001-04-16,2025-11-02 22:09:00,121604,1.923,True,Sales
+412,Theresa,Female,2001-04-27,2025-11-02 21:17:00,75661,1.079,True,Legal
+413,Shirley,Female,2001-06-20,2025-11-02 22:39:00,147113,16.135,False,Legal
+414,Ernest,Male,2001-06-30,2025-11-02 13:46:00,61181,16.559,False,Business Development
+415,Ann,Female,2001-07-16,2025-11-02 09:27:00,118431,12.772,True,Finance
+416,Frances,Female,2001-07-21,2025-11-02 02:34:00,91996,11.506,False,Product
+417,Joyce,Female,2001-07-25,2025-11-02 06:04:00,51065,16.807,False,Human Resources
+418,Jeremy,Male,2001-08-09,2025-11-02 03:56:00,43354,13.946,False,Marketing
+419,Edward,Male,2001-08-30,2025-11-02 01:24:00,73105,6.083,True,Engineering
+420,Nancy,Female,2001-09-10,2025-11-02 23:57:00,85213,2.386,True,Marketing
+421,Martha,Female,2001-09-14,2025-11-02 03:22:00,135758,14.782,True,Client Services
+422,Ann,Female,2001-09-28,2025-11-02 06:37:00,71958,5.272,True,Distribution
+423,Denise,Female,2001-11-06,2025-11-02 12:03:00,106862,3.699,False,Business Development
+424,Kathy,Female,2001-11-25,2025-11-02 21:55:00,93753,7.094,True,Sales
+425,Helen,Female,2001-11-29,2025-11-02 02:30:00,73789,14.841,True,Product
+426,James,Male,2001-12-05,2025-11-02 07:06:00,67789,17.105,True,Legal
+427,Andrea,Female,2001-12-10,2025-11-02 06:40:00,37888,13.47,False,Engineering
+428,Rose,Female,2002-01-02,2025-11-02 21:14:00,49538,9.828,False,Client Services
+429,Douglas,Male,2002-01-08,2025-11-02 18:42:00,41428,14.372,False,Product
+430,Steve,Male,2002-01-11,2025-11-02 21:17:00,51821,1.197,True,Legal
+431,Evelyn,Female,2002-02-10,2025-11-02 04:44:00,123621,19.767,True,Marketing
+432,Sharon,Female,2002-03-12,2025-11-02 06:32:00,147635,14.693,False,Human Resources
+433,Barbara,Female,2002-03-21,2025-11-02 08:02:00,47322,7.25,True,Sales
+434,Juan,Male,2002-04-16,2025-11-02 23:09:00,97364,3.595,False,Product
+435,Randy,Male,2002-05-02,2025-11-02 19:39:00,86723,14.842,False,Engineering
+436,Amanda,Female,2002-06-07,2025-11-02 07:46:00,109290,13.853,False,Engineering
+437,Betty,Female,2002-06-12,2025-11-02 03:59:00,104896,19.55,True,Business Development
+438,Amy,Female,2002-06-19,2025-11-02 03:06:00,122897,8.222,True,Engineering
+439,Christina,Female,2002-06-23,2025-11-02 15:18:00,35477,18.178,False,Human Resources
+440,Rose,Female,2002-07-06,2025-11-02 15:57:00,63494,19.385,True,Human Resources
+441,Jose,Male,2002-07-11,2025-11-02 09:15:00,59862,3.269,False,Product
+442,Ashley,Female,2002-08-04,2025-11-02 11:00:00,58698,6.811,True,Business Development
+443,Christina,Female,2002-08-06,2025-11-02 13:19:00,118780,9.096,True,Engineering
+444,Frances,Female,2002-08-08,2025-11-02 06:51:00,139852,7.524,True,Business Development
+445,Jonathan,Male,2002-08-15,2025-11-02 00:01:00,104749,11.364,False,Engineering
+446,Rose,Female,2002-08-25,2025-11-02 05:12:00,134505,11.051,True,Marketing
+447,Lillian,Female,2002-08-26,2025-11-02 08:53:00,103854,4.924,True,Distribution
+448,Michael,Male,2002-08-31,2025-11-02 01:20:00,81206,19.908,True,Distribution
+449,Lori,Female,2002-09-11,2025-11-02 07:36:00,66029,3.345,True,Client Services
+450,William,Male,2002-09-29,2025-11-02 16:09:00,66521,5.83,False,Human Resources
+451,Melissa,Female,2002-10-22,2025-11-02 01:20:00,45223,8.879,True,Legal
+452,Betty,Female,2002-11-19,2025-11-02 10:40:00,37005,7.645,True,Marketing
+453,Frank,Male,2002-11-23,2025-11-02 18:10:00,75147,17.398,False,Product
+454,Barbara,Female,2002-11-26,2025-11-02 05:32:00,82884,6.837,True,Business Development
+455,Patrick,Male,2002-12-30,2025-11-02 02:01:00,75423,5.368,True,Business Development
+456,Victor,Male,2003-01-08,2025-11-02 13:02:00,124486,10.166,False,Product
+457,Christine,Female,2003-02-01,2025-11-02 13:11:00,72613,11.126,False,Legal
+458,Keith,Male,2003-02-12,2025-11-02 15:02:00,120672,19.467,False,Legal
+459,Maria,Female,2003-03-14,2025-11-02 17:23:00,96250,10.056,False,Business Development
+460,Marie,Female,2003-03-16,2025-11-02 00:12:00,104058,17.695,True,Business Development
+461,Gerald,Male,2003-03-29,2025-11-02 10:37:00,96329,2.469,True,Engineering
+462,Frank,Male,2003-04-27,2025-11-02 12:04:00,140303,17.07,False,Legal
+463,Jerry,Male,2003-05-04,2025-11-02 04:29:00,98393,11.393,False,Client Services
+464,Louise,Female,2003-05-13,2025-11-02 09:47:00,46666,1.886,True,Business Development
+465,Jacqueline,Female,2003-05-25,2025-11-02 19:13:00,125418,8.064,False,Distribution
+466,Larry,Male,2003-08-27,2025-11-02 13:00:00,91133,5.14,False,Sales
+467,Patricia,Female,2003-09-01,2025-11-02 06:46:00,49368,14.226,False,Human Resources
+468,Andrea,Female,2003-09-14,2025-11-02 22:30:00,115913,12.121,False,Legal
+469,Elizabeth,Female,2003-10-09,2025-11-02 17:53:00,146129,5.687,False,Finance
+470,Lisa,Female,2003-10-17,2025-11-02 13:42:00,73706,18.53,False,Finance
+471,Deborah,Female,2003-11-11,2025-11-02 16:53:00,60003,9.624,False,Client Services
+472,Willie,Male,2003-11-27,2025-11-02 06:21:00,64363,4.023,False,Marketing
+473,Jerry,Male,2003-12-18,2025-11-02 06:46:00,140810,9.177,True,Client Services
+474,Antonio,Male,2003-12-28,2025-11-02 04:17:00,137979,5.266,False,Distribution
+475,Jerry,Male,2004-01-10,2025-11-02 12:56:00,95734,19.096,False,Client Services
+476,Irene,Female,2004-01-30,2025-11-02 20:25:00,131038,8.996,False,Distribution
+477,Kathryn,Female,2004-02-04,2025-11-02 13:47:00,73935,14.752,False,Sales
+478,Ruth,Female,2004-02-17,2025-11-02 05:38:00,59969,14.064,True,Finance
+479,Judith,Female,2004-03-01,2025-11-02 07:32:00,109324,19.488,False,Distribution
+480,Carolyn,Female,2004-03-17,2025-11-02 06:38:00,118037,13.492,False,Finance
+481,Barbara,Female,2004-03-22,2025-11-02 08:11:00,144677,8.696,False,Finance
+482,Robin,Female,2004-03-26,2025-11-02 17:41:00,70248,9.66,True,Sales
+483,Roy,Male,2004-05-10,2025-11-02 13:22:00,46875,12.942,True,Sales
+484,Amanda,Female,2004-08-01,2025-11-02 13:32:00,80803,14.077,True,Distribution
+485,Gloria,Female,2004-08-19,2025-11-02 10:31:00,46602,1.027,True,Business Development
+486,Doris,Female,2004-08-20,2025-11-02 05:51:00,83072,7.511,False,Finance
+487,Bonnie,Female,2004-08-25,2025-11-02 02:17:00,131943,14.249,False,Client Services
+488,Kathleen,Female,2004-08-28,2025-11-02 10:49:00,42553,3.756,True,Distribution
+489,Charles,Male,2004-09-14,2025-11-02 20:13:00,107391,1.26,True,Marketing
+490,Roy,Male,2004-09-23,2025-11-02 13:31:00,101941,3.45,False,Client Services
+491,Susan,Female,2004-09-25,2025-11-02 01:30:00,80688,18.892,True,Sales
+492,Bobby,Male,2004-09-30,2025-11-02 22:52:00,79047,18.784,False,Human Resources
+493,Alice,Female,2004-10-05,2025-11-02 09:34:00,47638,11.209,False,Human Resources
+494,Jose,Male,2004-10-30,2025-11-02 13:39:00,84834,14.33,True,Finance
+495,Rose,Female,2004-10-30,2025-11-02 16:34:00,56961,7.585,False,Marketing
+496,Terry,Male,2004-11-10,2025-11-02 04:33:00,35633,3.947,True,Distribution
+497,Ralph,Male,2004-11-11,2025-11-02 01:35:00,71896,4.232,True,Marketing
+498,Eric,Male,2004-11-12,2025-11-02 21:16:00,65168,11.513,False,Distribution
+499,Diana,Female,2004-11-19,2025-11-02 08:47:00,105066,17.343,True,Business Development
+500,Roger,Male,2004-11-19,2025-11-02 15:55:00,51430,6.46,False,Marketing
+501,Russell,Male,2005-01-02,2025-11-02 01:48:00,60388,17.885,False,Client Services
+502,Clarence,Male,2005-01-13,2025-11-02 09:00:00,116693,13.835,True,Distribution
+503,Tina,Female,2005-01-17,2025-11-02 09:11:00,88276,14.248,False,Legal
+504,Benjamin,Male,2005-01-26,2025-11-02 22:06:00,79529,7.008,True,Legal
+505,Lisa,Female,2005-02-26,2025-11-02 18:33:00,38078,10.28,True,Product
+506,Jerry,Male,2005-03-04,2025-11-02 13:00:00,138705,9.34,True,Finance
+507,Philip,Male,2005-03-11,2025-11-02 10:56:00,103557,16.014,True,Business Development
+508,Lawrence,Male,2005-05-13,2025-11-02 01:25:00,74640,18.641,False,Marketing
+509,Melissa,Female,2005-06-21,2025-11-02 06:33:00,48109,14.995,False,Finance
+510,Kathy,Female,2005-06-22,2025-11-02 04:51:00,66820,9.0,True,Client Services
+511,Irene,Female,2005-06-23,2025-11-02 11:03:00,89780,8.999,True,Sales
+512,Betty,Female,2005-06-28,2025-11-02 18:03:00,51613,12.984,False,Distribution
+513,Kevin,Male,2005-07-01,2025-11-02 15:22:00,141498,4.135,True,Sales
+514,Shawn,Male,2005-09-23,2025-11-02 02:55:00,148115,6.539,True,Finance
+515,Victor,Male,2005-09-24,2025-11-02 12:04:00,123144,16.261,True,Product
+516,Richard,Male,2005-09-27,2025-11-02 01:41:00,86326,10.717,False,Product
+517,Brenda,Female,2005-10-06,2025-11-02 21:33:00,141521,4.337,False,Client Services
+518,Craig,Male,2005-11-01,2025-11-02 23:31:00,44857,13.266,False,Finance
+519,Elizabeth,Female,2005-11-10,2025-11-02 04:56:00,106406,1.782,True,Legal
+520,Angela,Female,2005-11-22,2025-11-02 06:29:00,95570,18.523,True,Engineering
+521,Phyllis,Female,2005-11-24,2025-11-02 23:57:00,140347,8.723,False,Sales
+522,Beverly,Female,2005-11-30,2025-11-02 02:57:00,107163,3.665,True,Human Resources
+523,Brandon,Male,2006-03-27,2025-11-02 17:54:00,115711,8.012,True,Finance
+524,Ashley,Female,2006-03-31,2025-11-02 13:24:00,142410,11.048,True,Engineering
+525,Laura,Female,2006-04-02,2025-11-02 13:57:00,42087,2.624,False,Product
+526,Sean,Male,2006-04-25,2025-11-02 16:51:00,108581,9.634,False,Human Resources
+527,Carl,Male,2006-05-03,2025-11-02 17:55:00,130276,16.084,True,Finance
+528,Kenneth,Male,2006-05-10,2025-11-02 08:24:00,101914,1.905,True,Distribution
+529,Ashley,Female,2006-05-25,2025-11-02 11:30:00,112238,6.03,True,Engineering
+530,Debra,Female,2006-05-28,2025-11-02 06:51:00,42296,16.922,False,Product
+531,Willie,Male,2006-06-06,2025-11-02 09:45:00,55281,4.935,True,Marketing
+532,Linda,Female,2006-06-24,2025-11-02 12:04:00,110967,19.612,True,Human Resources
+533,Cynthia,Female,2006-07-12,2025-11-02 08:55:00,149684,7.864,False,Product
+534,Roy,Male,2006-08-06,2025-11-02 07:52:00,148225,1.841,False,Finance
+535,Marilyn,Female,2006-08-09,2025-11-02 11:24:00,87145,17.33,False,Human Resources
+536,Ruby,Female,2006-08-13,2025-11-02 18:27:00,48354,19.501,False,Business Development
+537,Wayne,Male,2006-09-08,2025-11-02 11:09:00,67471,2.728,False,Engineering
+538,Katherine,Female,2006-09-22,2025-11-02 20:08:00,72002,13.178,True,Product
+539,Theresa,Female,2006-10-10,2025-11-02 01:12:00,85182,16.675,False,Sales
+540,Steven,Male,2006-11-21,2025-11-02 08:30:00,83706,6.96,True,Human Resources
+541,Irene,Female,2006-11-29,2025-11-02 14:14:00,125018,9.601,True,Legal
+542,Billy,Male,2006-12-01,2025-11-02 15:32:00,144709,10.069,True,Distribution
+543,Shawn,Male,2006-12-29,2025-11-02 03:05:00,57871,4.02,True,Human Resources
+544,Johnny,Male,2007-01-14,2025-11-02 14:54:00,71383,2.097,True,Human Resources
+545,Mark,Male,2007-01-22,2025-11-02 14:37:00,75150,12.182,True,Legal
+546,Bruce,Male,2007-01-28,2025-11-02 23:10:00,134988,13.926,True,Sales
+547,Jacqueline,Female,2007-02-11,2025-11-02 02:01:00,66604,14.609,False,Legal
+548,Henry,Male,2007-02-23,2025-11-02 03:24:00,49665,18.338,False,Business Development
+549,Robert,Male,2007-03-11,2025-11-02 11:20:00,135882,19.944,False,Legal
+550,Kelly,Female,2007-03-17,2025-11-02 18:20:00,39371,4.068,False,Engineering
+551,Gloria,Female,2007-03-27,2025-11-02 01:44:00,90730,2.491,False,Distribution
+552,Brian,Male,2007-04-07,2025-11-02 22:47:00,93901,17.821,True,Legal
+553,Lisa,Female,2007-04-11,2025-11-02 01:04:00,128042,2.03,True,Legal
+554,Bobby,Male,2007-05-07,2025-11-02 10:01:00,54043,3.833,False,Product
+555,Harold,Male,2007-05-15,2025-11-02 18:37:00,118753,8.162,False,Sales
+556,Gloria,Female,2007-06-29,2025-11-02 05:34:00,134148,8.833,True,Legal
+557,Adam,Male,2007-07-05,2025-11-02 11:59:00,71276,5.027,True,Human Resources
+558,Douglas,Male,2007-08-04,2025-11-02 05:23:00,132175,2.28,False,Engineering
+559,Walter,Male,2007-08-04,2025-11-02 13:59:00,58789,5.461,False,Sales
+560,Sara,Female,2007-08-15,2025-11-02 09:23:00,83677,8.999,False,Engineering
+561,Patrick,Male,2007-08-17,2025-11-02 03:16:00,143499,17.495,True,Engineering
+562,Kathryn,Female,2007-08-29,2025-11-02 06:10:00,53061,11.864,True,Finance
+563,Daniel,Male,2007-09-15,2025-11-02 22:16:00,123811,7.664,True,Human Resources
+564,Carlos,Male,2007-09-19,2025-11-02 01:01:00,77327,11.58,True,Finance
+565,Emily,Female,2007-09-20,2025-11-02 11:25:00,89434,11.295,False,Engineering
+566,Walter,Male,2007-09-24,2025-11-02 23:16:00,125382,13.613,True,Client Services
+567,Albert,Male,2007-09-30,2025-11-02 17:34:00,102626,15.843,False,Finance
+568,Joan,Female,2007-10-02,2025-11-02 02:53:00,120941,3.694,True,Finance
+569,Marilyn,Female,2007-10-08,2025-11-02 00:32:00,115149,11.934,True,Legal
+570,Judith,Female,2007-11-23,2025-11-02 13:22:00,117055,7.461,False,Marketing
+571,Gary,Male,2008-01-27,2025-11-02 23:40:00,109831,5.831,False,Sales
+572,Kathryn,Female,2008-01-29,2025-11-02 00:29:00,86676,6.081,False,Sales
+573,Jeremy,Male,2008-02-01,2025-11-02 08:50:00,100238,3.887,True,Client Services
+574,James,Male,2008-02-16,2025-11-02 02:49:00,69111,14.625,True,Business Development
+575,Shawn,Male,2008-03-13,2025-11-02 17:36:00,51667,6.339,False,Product
+576,Shawn,Male,2008-03-17,2025-11-02 14:12:00,39335,10.664,False,Distribution
+577,Christopher,Male,2008-03-30,2025-11-02 10:52:00,47369,14.822,False,Legal
+578,Amy,Female,2008-03-30,2025-11-02 22:54:00,106249,15.967,False,Sales
+579,Mark,Male,2008-04-12,2025-11-02 17:40:00,57286,5.025,True,Business Development
+580,Anna,Female,2008-04-15,2025-11-02 14:34:00,117293,2.366,False,Client Services
+581,Ruby,Female,2008-05-31,2025-11-02 20:41:00,83112,4.083,False,Marketing
+582,Paul,Male,2008-06-03,2025-11-02 15:05:00,41054,12.299,False,Marketing
+583,Janet,Female,2008-07-12,2025-11-02 12:10:00,36927,18.769,False,Client Services
+584,Philip,Male,2008-07-17,2025-11-02 13:30:00,89227,3.996,False,Legal
+585,Wanda,Female,2008-07-20,2025-11-02 13:44:00,65362,7.132,True,Legal
+586,Jacqueline,Female,2008-07-27,2025-11-02 12:08:00,125298,3.019,True,Legal
+587,Albert,Male,2008-08-14,2025-11-02 17:43:00,137840,9.705,False,Business Development
+588,Cheryl,Female,2008-09-23,2025-11-02 02:57:00,52080,9.375,False,Legal
+589,Dorothy,Female,2008-10-08,2025-11-02 00:22:00,82744,19.111,True,Client Services
+590,Michael,Male,2008-10-10,2025-11-02 11:25:00,99283,2.665,True,Distribution
+591,Lillian,Female,2008-12-21,2025-11-02 18:51:00,85446,3.959,True,Engineering
+592,Bonnie,Female,2008-12-23,2025-11-02 09:26:00,90427,2.01,True,Client Services
+593,Raymond,Male,2009-02-16,2025-11-02 22:38:00,37812,3.178,False,Human Resources
+594,Rachel,Female,2009-02-16,2025-11-02 20:47:00,142032,12.599,False,Business Development
+595,Ronald,Male,2009-02-24,2025-11-02 14:09:00,96633,4.99,True,Engineering
+596,Deborah,Female,2009-02-26,2025-11-02 10:17:00,118043,7.266,True,Business Development
+597,Frank,Male,2009-03-02,2025-11-02 21:15:00,78891,7.927,True,Distribution
+598,Todd,Male,2009-03-11,2025-11-02 03:43:00,107281,1.612,True,Engineering
+599,Denise,Female,2009-03-20,2025-11-02 07:57:00,115118,5.108,False,Human Resources
+600,Sean,Male,2009-03-21,2025-11-02 11:38:00,131423,8.957,False,Distribution
+601,Jennifer,Female,2009-04-04,2025-11-02 22:47:00,71715,13.079,True,Client Services
+602,Nicole,Female,2009-04-26,2025-11-02 00:40:00,66047,18.674,True,Marketing
+603,Steven,Male,2009-05-12,2025-11-02 14:14:00,113060,2.846,True,Sales
+604,Scott,Male,2009-05-12,2025-11-02 04:36:00,58248,3.914,False,Business Development
+605,Gregory,Male,2009-05-15,2025-11-02 15:52:00,142208,11.204,True,Engineering
+606,Amy,Female,2009-05-20,2025-11-02 06:26:00,75415,19.132,False,Client Services
+607,Mary,Female,2009-05-30,2025-11-02 23:41:00,92544,3.8,False,Client Services
+608,Tina,Female,2009-06-12,2025-11-02 07:16:00,114767,3.711,True,Engineering
+609,Steven,Male,2009-07-05,2025-11-02 04:55:00,110306,16.843,True,Human Resources
+610,Linda,Female,2009-07-15,2025-11-02 22:12:00,144001,2.194,False,Business Development
+611,Lillian,Female,2009-08-14,2025-11-02 05:41:00,113554,18.018,True,Business Development
+612,Willie,Male,2009-08-22,2025-11-02 13:03:00,55038,19.691,False,Legal
+613,Wayne,Male,2009-09-02,2025-11-02 01:37:00,126956,18.396,False,Human Resources
+614,Cheryl,Female,2009-09-08,2025-11-02 10:16:00,81308,2.196,True,Legal
+615,Mary,Female,2009-10-18,2025-11-02 18:32:00,87721,12.484,False,Product
+616,Diane,Female,2009-10-30,2025-11-02 18:56:00,130577,12.791,False,Marketing
+617,Lisa,Female,2009-11-02,2025-11-02 09:42:00,115387,1.821,False,Client Services
+618,Johnny,Male,2009-11-06,2025-11-02 16:23:00,118172,16.194,True,Sales
+619,Joshua,Male,2009-11-09,2025-11-02 06:32:00,72893,9.555,False,Distribution
+620,Steve,Male,2009-11-11,2025-11-02 23:44:00,61310,12.428,True,Distribution
+621,Bruce,Male,2009-11-28,2025-11-02 22:47:00,114796,6.796,False,Finance
+622,Shawn,Male,2009-12-03,2025-11-02 10:24:00,96610,2.097,True,Client Services
+623,David,Male,2009-12-05,2025-11-02 08:48:00,92242,15.407,False,Legal
+624,Willie,Male,2009-12-05,2025-11-02 05:39:00,141932,1.017,True,Engineering
+625,Janice,Female,2009-12-17,2025-11-02 06:42:00,102697,3.283,False,Engineering
+626,Debra,Female,2010-01-19,2025-11-02 08:48:00,70492,8.895,False,Client Services
+627,Linda,Female,2010-02-04,2025-11-02 20:49:00,44486,17.308,True,Engineering
+628,Todd,Male,2010-02-16,2025-11-02 11:29:00,103405,15.91,False,Sales
+629,Elizabeth,Female,2010-02-21,2025-11-02 07:02:00,79145,19.78,False,Finance
+630,Victor,Male,2010-03-10,2025-11-02 17:01:00,45267,3.942,True,Sales
+631,Theresa,Female,2010-04-11,2025-11-02 07:18:00,72670,1.481,True,Engineering
+632,Harold,Male,2010-04-16,2025-11-02 05:13:00,147417,11.626,True,Business Development
+633,Daniel,Male,2010-04-30,2025-11-02 03:48:00,106947,15.866,True,Legal
+634,Virginia,Female,2010-05-02,2025-11-02 21:10:00,123649,10.154,True,Marketing
+635,Gerald,Male,2010-05-28,2025-11-02 12:26:00,96511,9.331,False,Human Resources
+636,Roger,Male,2010-07-03,2025-11-02 17:11:00,105689,13.32,True,Marketing
+637,Carl,Male,2010-07-07,2025-11-02 13:33:00,54033,15.528,True,Business Development
+638,Donna,Female,2010-07-22,2025-11-02 03:48:00,81014,1.894,False,Product
+639,Carlos,Male,2010-07-28,2025-11-02 15:08:00,50167,2.362,False,Product
+640,Mary,Female,2010-08-22,2025-11-02 08:03:00,42214,17.538,True,Business Development
+641,Jeremy,Male,2010-09-21,2025-11-02 05:56:00,90370,7.369,False,Human Resources
+642,Andrea,Female,2010-10-01,2025-11-02 11:54:00,79123,19.422,False,Distribution
+643,Timothy,Male,2010-10-06,2025-11-02 22:49:00,49473,12.463,False,Legal
+644,Adam,Male,2010-10-08,2025-11-02 21:53:00,45181,3.491,False,Human Resources
+645,Joseph,Male,2010-10-10,2025-11-02 23:12:00,107050,12.737,False,Business Development
+646,Harold,Male,2010-10-18,2025-11-02 20:45:00,65673,1.187,True,Legal
+647,Terry,Male,2010-10-21,2025-11-02 23:18:00,58357,7.969,False,Engineering
+648,Ralph,Male,2010-10-27,2025-11-02 10:28:00,106310,4.03,True,Client Services
+649,Joe,Male,2010-12-05,2025-11-02 16:20:00,144082,1.62,True,Client Services
+650,Debra,Female,2011-03-17,2025-11-02 13:12:00,84693,6.976,True,Finance
+651,Judy,Female,2011-04-05,2025-11-02 01:44:00,48668,11.716,True,Product
+652,Thomas,Male,2011-04-06,2025-11-02 13:04:00,103235,9.554,True,Human Resources
+653,Carolyn,Female,2011-04-09,2025-11-02 05:38:00,109260,2.65,True,Business Development
+654,Louis,Male,2011-04-15,2025-11-02 05:02:00,95198,2.075,False,Business Development
+655,Adam,Male,2011-05-21,2025-11-02 01:45:00,95327,15.12,False,Distribution
+656,Michael,Male,2011-05-22,2025-11-02 10:42:00,73354,18.357,False,Business Development
+657,Todd,Male,2011-05-23,2025-11-02 16:14:00,85074,1.844,False,Client Services
+658,Rachel,Female,2011-06-23,2025-11-02 00:52:00,54941,3.221,True,Distribution
+659,Sharon,Female,2011-07-01,2025-11-02 09:50:00,46007,19.731,True,Client Services
+660,Lawrence,Male,2011-07-23,2025-11-02 03:41:00,122971,14.618,False,Product
+661,Louis,Male,2011-08-16,2025-11-02 17:19:00,93022,9.146,True,Human Resources
+662,Gary,Male,2011-08-18,2025-11-02 08:12:00,49101,11.9,True,Business Development
+663,Scott,Male,2011-08-20,2025-11-02 08:08:00,37385,8.226,True,Business Development
+664,Harry,Male,2011-08-30,2025-11-02 18:31:00,67656,16.455,True,Client Services
+665,Maria,Female,2011-10-15,2025-11-02 16:53:00,43455,13.04,False,Engineering
+666,Anthony,Male,2011-10-16,2025-11-02 08:35:00,112769,11.625,True,Finance
+667,Marie,Female,2011-10-20,2025-11-02 22:09:00,62666,10.247,False,Product
+668,Mary,Female,2011-11-06,2025-11-02 08:32:00,115057,2.089,False,Finance
+669,Lois,Female,2011-11-09,2025-11-02 07:06:00,147183,9.999,True,Client Services
+670,Barbara,Female,2011-11-12,2025-11-02 00:35:00,85718,13.326,False,Client Services
+671,Andrea,Female,2011-11-17,2025-11-02 14:37:00,123591,6.5,True,Engineering
+672,Scott,Male,2011-12-17,2025-11-02 03:45:00,90429,4.45,False,Product
+673,Christopher,Male,2011-12-24,2025-11-02 12:22:00,142178,17.984,True,Sales
+674,Andrea,Female,2012-01-12,2025-11-02 05:43:00,120204,9.557,False,Business Development
+675,Alan,Male,2012-02-17,2025-11-02 00:26:00,41453,10.084,False,Product
+676,Aaron,Male,2012-02-17,2025-11-02 10:20:00,61602,11.849,True,Marketing
+677,Randy,Male,2012-02-25,2025-11-02 05:33:00,57266,14.077,False,Product
+678,Ralph,Male,2012-03-07,2025-11-02 02:25:00,81215,8.4,False,Finance
+679,Wayne,Male,2012-04-07,2025-11-02 08:00:00,102652,14.085,True,Distribution
+680,Howard,Male,2012-04-09,2025-11-02 06:36:00,37984,2.021,False,Distribution
+681,Christina,Female,2012-04-13,2025-11-02 14:04:00,110169,13.892,True,Engineering
+682,Jane,Female,2012-04-27,2025-11-02 14:12:00,59680,15.211,True,Business Development
+683,Albert,Male,2012-05-15,2025-11-02 18:24:00,129949,10.169,True,Sales
+684,Samuel,Male,2012-05-25,2025-11-02 16:40:00,85550,11.593,True,Marketing
+685,Jack,Male,2012-05-30,2025-11-02 03:17:00,70367,18.266,True,Legal
+686,Harold,Male,2012-06-23,2025-11-02 12:40:00,140444,3.771,False,Distribution
+687,Lois,Female,2012-07-28,2025-11-02 11:39:00,53954,19.075,False,Product
+688,Ernest,Male,2012-08-14,2025-11-02 11:25:00,126232,6.191,True,Sales
+689,Robin,Female,2012-10-01,2025-11-02 02:44:00,41808,19.239,False,Business Development
+690,Carolyn,Female,2012-11-06,2025-11-02 03:51:00,69268,3.031,False,Client Services
+691,Scott,Male,2012-11-17,2025-11-02 14:47:00,146812,1.965,True,Marketing
+692,Cynthia,Female,2012-12-03,2025-11-02 23:03:00,74287,10.751,False,Sales
+693,Patricia,Female,2012-12-06,2025-11-02 04:01:00,114079,8.399,True,Client Services
+694,Nancy,Female,2012-12-15,2025-11-02 23:57:00,125250,2.672,True,Business Development
+695,Matthew,Male,2013-01-02,2025-11-02 22:33:00,35203,18.04,False,Human Resources
+696,Diana,Female,2013-01-04,2025-11-02 07:53:00,103521,2.784,True,Business Development
+697,Teresa,Female,2013-01-22,2025-11-02 15:17:00,113425,11.907,True,Human Resources
+698,Kimberly,Female,2013-01-26,2025-11-02 00:57:00,46233,8.862,True,Engineering
+699,Alice,Female,2013-02-09,2025-11-02 00:49:00,121250,4.363,True,Finance
+700,Sean,Male,2013-02-11,2025-11-02 19:07:00,42748,9.765,False,Distribution
+701,Anthony,Male,2013-02-13,2025-11-02 13:35:00,146141,3.645,True,Distribution
+702,Nicholas,Male,2013-03-01,2025-11-02 21:26:00,101036,2.826,True,Human Resources
+703,Bruce,Male,2013-03-15,2025-11-02 23:13:00,141335,15.427,True,Engineering
+704,Larry,Male,2013-04-20,2025-11-02 16:45:00,60500,11.985,False,Business Development
+705,Steven,Male,2013-04-23,2025-11-02 22:12:00,68680,16.565,False,Legal
+706,Benjamin,Male,2013-05-05,2025-11-02 15:28:00,114356,7.123,False,Client Services
+707,Russell,Male,2013-05-10,2025-11-02 23:08:00,137359,11.105,False,Business Development
+708,Russell,Male,2013-05-20,2025-11-02 12:39:00,96914,1.421,False,Product
+709,Earl,Male,2013-06-15,2025-11-02 03:00:00,48046,7.737,False,Marketing
+710,George,Male,2013-06-21,2025-11-02 17:47:00,98874,4.479,True,Marketing
+711,Ernest,Male,2013-07-20,2025-11-02 06:41:00,142935,13.198,True,Product
+712,Frank,Male,2013-07-27,2025-11-02 16:32:00,91406,5.681,True,Business Development
+713,Matthew,Male,2013-07-31,2025-11-02 08:04:00,142373,2.462,False,Marketing
+714,Katherine,Female,2013-08-18,2025-11-02 15:58:00,97443,13.657,False,Product
+715,Jonathan,Male,2013-08-21,2025-11-02 00:45:00,121797,16.923,False,Product
+716,Catherine,Female,2013-08-31,2025-11-02 19:24:00,58047,14.858,True,Distribution
+717,Marie,Female,2013-10-03,2025-11-02 20:05:00,123711,10.966,False,Product
+718,Lois,Female,2013-10-18,2025-11-02 16:51:00,36946,6.652,False,Engineering
+719,Dorothy,Female,2013-11-05,2025-11-02 22:50:00,140136,3.12,True,Business Development
+720,Arthur,Male,2013-12-05,2025-11-02 08:44:00,86615,3.412,True,Business Development
+721,Kathy,Female,2013-12-18,2025-11-02 15:09:00,132381,8.34,False,Business Development
+722,Arthur,Male,2014-01-01,2025-11-02 19:46:00,134610,6.147,True,Human Resources
+723,Karen,Female,2014-01-09,2025-11-02 22:09:00,46478,16.552,False,Engineering
+724,Anthony,Male,2014-01-30,2025-11-02 21:04:00,96795,14.837,False,Sales
+725,Earl,Male,2014-02-11,2025-11-02 21:03:00,52620,13.773,False,Product
+726,Sharon,Female,2014-03-09,2025-11-02 16:39:00,91522,7.564,False,Finance
+727,Randy,Male,2014-03-16,2025-11-02 18:24:00,135119,7.887,False,Client Services
+728,Christopher,Male,2014-04-23,2025-11-02 07:52:00,82401,7.252,False,Client Services
+729,Ronald,Male,2014-04-30,2025-11-02 14:19:00,121068,12.757,True,Product
+730,Margaret,Female,2014-05-05,2025-11-02 06:01:00,55044,4.078,False,Sales
+731,Frances,Female,2014-05-16,2025-11-02 08:31:00,35884,17.667,False,Sales
+732,Kathleen,Female,2014-06-13,2025-11-02 09:16:00,35575,14.595,False,Distribution
+733,Russell,Male,2014-08-13,2025-11-02 15:51:00,121160,7.843,False,Engineering
+734,Sarah,Female,2014-08-17,2025-11-02 23:08:00,127118,11.176,False,Legal
+735,Julia,Female,2014-08-18,2025-11-02 03:12:00,97566,2.147,False,Marketing
+736,Robert,Male,2014-11-18,2025-11-02 05:00:00,85799,19.93,False,Finance
+737,Cheryl,Female,2014-12-03,2025-11-02 09:27:00,71751,15.918,False,Business Development
+738,Gloria,Female,2014-12-08,2025-11-02 05:08:00,136709,10.331,True,Finance
+739,Arthur,Male,2014-12-16,2025-11-02 16:56:00,66819,6.639,True,Marketing
+740,Patricia,Female,2015-01-09,2025-11-02 04:16:00,121232,16.624,False,Legal
+741,Kenneth,Male,2015-01-15,2025-11-02 14:41:00,69112,7.588,True,Finance
+742,Brenda,Female,2015-01-18,2025-11-02 16:39:00,73749,19.332,False,Business Development
+743,Norma,Female,2015-02-11,2025-11-02 23:44:00,94393,3.643,True,Engineering
+744,Jennifer,Female,2015-03-31,2025-11-02 19:43:00,132084,10.006,True,Engineering
+745,Stephen,Male,2015-05-09,2025-11-02 19:07:00,141958,9.078,True,Legal
+746,Rose,Female,2015-05-28,2025-11-02 08:40:00,149903,5.63,False,Human Resources
+747,George,Male,2015-06-05,2025-11-02 05:40:00,50369,18.9,True,Sales
+748,Cynthia,Female,2015-06-29,2025-11-02 06:38:00,82408,8.701,True,Marketing
+749,James,Male,2015-07-11,2025-11-02 20:52:00,72257,13.023,False,Engineering
+750,Roger,Male,2015-08-03,2025-11-02 16:56:00,125033,4.887,True,Marketing
+751,Harry,Male,2015-09-23,2025-11-02 01:36:00,129148,15.193,True,Engineering
+752,Harry,Male,2015-10-01,2025-11-02 19:47:00,64579,15.266,True,Sales
+753,Brandon,Male,2015-10-16,2025-11-02 02:44:00,112548,4.664,False,Engineering
+754,Clarence,Male,2015-11-03,2025-11-02 00:11:00,103684,18.654,True,Engineering
+755,Lori,Female,2015-11-20,2025-11-02 13:15:00,75498,6.537,True,Marketing
+756,Lois,Female,2015-12-11,2025-11-02 16:10:00,99747,6.168,False,Marketing
+757,Martin,Male,2016-02-25,2025-11-02 18:29:00,61117,2.844,False,Client Services
+758,Johnny,Male,2016-02-26,2025-11-02 19:39:00,76394,5.437,True,Marketing
+759,Thomas,Male,2016-03-12,2025-11-02 15:10:00,105681,19.572,False,Engineering
+760,Janice,Female,2016-03-12,2025-11-02 00:40:00,51082,11.955,False,Legal
+761,Todd,Male,2016-03-16,2025-11-02 14:45:00,134408,3.56,True,Human Resources
+762,Lillian,Female,2016-06-05,2025-11-02 06:09:00,59414,1.256,False,Product
+763,Tina,Female,2016-06-16,2025-11-02 19:47:00,100705,16.961,True,Marketing
